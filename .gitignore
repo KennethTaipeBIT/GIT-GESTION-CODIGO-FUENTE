@@ -1,0 +1,42 @@
+# ---------------------------------------------
+# .gitignore - Taller Gestion de Codigo Fuente
+# BIT - Desarrollo de Software
+# ---------------------------------------------
+
+# Artefactos de compilacion
+/dist/
+/build/
+/out/
+*.class
+*.jar
+*.war
+*.exe
+*.dll
+
+# Dependencias
+/node_modules/
+/vendor/
+__pycache__/
+*.pyc
+.venv/
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Configuracion local / secretos  (NUNCA subir)
+.env
+.env.local
+*.pem
+*.key
+credenciales.txt
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
