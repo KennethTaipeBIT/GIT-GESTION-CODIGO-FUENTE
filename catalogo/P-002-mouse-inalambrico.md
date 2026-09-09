@@ -4,7 +4,7 @@
 - **Nombre:** Mouse inalambrico ergonomico
 - **Categoria:** Perifericos
 - **Precio (USD):** 2450.00
-- **Stock:** -12
+- **Stock:** 12
 - **Estado:** activo
 - **Equipo responsable:** Producto base (facilitador)
 
